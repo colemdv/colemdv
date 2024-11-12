@@ -1,5 +1,5 @@
-hi, i'm cole.
+Hi, I'm Cole.
 
-https://colem.dev
+About: https://colem.dev
 
-<sup>_most of my personal repositories are private._</sup>
+<sup>_Note: most of my personal repositories are private._</sup>
